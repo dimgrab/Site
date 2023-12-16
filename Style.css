@@ -3,5 +3,7 @@ a {
 }
 
 p {
-  size: 10px;
+  font-family: CURSIVE;
+  color: #808080;
+  font-size: 10px;
 }
