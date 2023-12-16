@@ -3,7 +3,7 @@ a {
 }
 
 p {
-  font-family: new york;
+  font-family: new york, sans-serif;
   font-color: #808080;
   font-size: 10px;
 }
