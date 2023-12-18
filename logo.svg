@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo_a0.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -17,16 +20,16 @@
      id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
-     borderopacity="0"
+     borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="1"
      inkscape:pagecheckerboard="false"
-     inkscape:deskcolor="#d1d1ca"
+     inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0444209"
-     inkscape:cx="189.57874"
-     inkscape:cy="100.53418"
+     inkscape:cx="197.23849"
+     inkscape:cy="712.35648"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -585,7 +588,7 @@
     </g>
     <path
        sodipodi:type="star"
-       style="fill:#ffff5a;fill-opacity:0.990854;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
+       style="fill:#ffff02;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
        id="path13107"
        inkscape:flatsided="false"
        sodipodi:sides="5"
@@ -603,7 +606,7 @@
        transform="rotate(-26.378164,24.361882,67.711701)" />
     <path
        sodipodi:type="star"
-       style="fill:#ffff5a;fill-opacity:0.992157;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
+       style="fill:#ffff03;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
        id="path13107-5"
        inkscape:flatsided="false"
        sodipodi:sides="5"
@@ -621,7 +624,7 @@
        transform="translate(37.081656,2.3301484)" />
     <path
        sodipodi:type="star"
-       style="fill:#ffff5a;fill-opacity:0.992157;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
+       style="fill:#ffff04;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
        id="path13107-7"
        inkscape:flatsided="false"
        sodipodi:sides="5"
@@ -639,7 +642,7 @@
        transform="rotate(9.3866637,121.96698,539.03887)" />
     <path
        sodipodi:type="star"
-       style="fill:#ffff5a;fill-opacity:0.992157;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
+       style="fill:#ffff05;fill-opacity:0.9921568;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
        id="path13107-6"
        inkscape:flatsided="false"
        sodipodi:sides="5"
@@ -657,7 +660,7 @@
        transform="rotate(23.833694,72.026171,334.69585)" />
     <path
        sodipodi:type="star"
-       style="fill:#ffff5a;fill-opacity:0.992157;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
+       style="fill:#ffff04;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:0.264999;stroke-opacity:0;paint-order:stroke fill markers"
        id="path13107-0"
        inkscape:flatsided="false"
        sodipodi:sides="5"
