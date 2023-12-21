@@ -13,18 +13,20 @@ a {
 
 h1 {
    font-family: verdana;
-   font-size: 42px;
+   font-size: 42pt;
+   border: 3px;
 }
 
 p {
   font-family: new york, sans-serif;
   font-color: #808080;
-  font-size: 22px;
+  font-size: 22pt;
+  border: 3px;
   background: #FA8072;
 }
 
 aside {
-    font-size: 15px;
+    font-size: 15pt;
     background: #FFFFFF;
 
 table {
