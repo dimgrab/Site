@@ -3,7 +3,7 @@ body {
 }
 
 * {
-    width: 55vw;
+    width: 70vw;
     margin: auto;
 }
 
@@ -15,6 +15,7 @@ h1 {
    font-family: verdana;
    font-size: 42pt;
    border: 3px;
+   background: #FFD700;
 }
 
 p {
@@ -22,7 +23,7 @@ p {
   font-color: #808080;
   font-size: 22pt;
   border: 3px;
-  background: #FA8072;
+  background: #BC8F8F;
 }
 
 aside {
