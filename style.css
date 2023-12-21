@@ -1,10 +1,10 @@
 body {
-    text-align: center;
-    background: url("background-index.jpg");
+    background: url("background.jpg");
 }
 
 * {
-    width: 80vw;
+    width: 60vw;
+    margin: auto;
 }
 
 a {
@@ -13,8 +13,7 @@ a {
 
 h1 {
    font-family: verdana;
-   font-size: 10vw;
-   text-align: center;
+   font-size: 8vw;
 }
 
 p {
