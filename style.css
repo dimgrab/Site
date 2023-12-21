@@ -35,6 +35,11 @@ article {
 }
 
 table {
-   background-color: #FFFAFA;
    border: 3px solid grey;
 }
+
+td, th {
+    border: 3px;
+    background: #C0C0C0;
+}
+
