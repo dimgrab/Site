@@ -1,12 +1,10 @@
 body {
     background: url("background.jpg");
-    font-size: 5.5vm;
 }
 
 * {
     width: 30vw;
     margin: auto;
-    background: #F4A460;
 }
 
 a {
