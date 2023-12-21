@@ -4,11 +4,17 @@ a {
 
 h1 {
    font-family: verdana;
-   font-size: 30px
+   font-size: 30px;
+   text-align: center;
 }
 
 p {
   font-family: new york, sans-serif;
   font-color: #808080;
   font-size: 20px;
+}
+
+table {
+   backgroubd-color: #FFFAFA;
+   border: 3px solid grey;
 }
