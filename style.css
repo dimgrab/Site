@@ -23,6 +23,10 @@ p {
   background: #FA8072;
 }
 
+aside {
+    font-size: 5vm;
+    background: #FFFFFF;
+
 table {
    backgroubd-color: #FFFAFA;
    border: 3px solid grey;
